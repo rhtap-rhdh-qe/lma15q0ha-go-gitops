@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lma15q0ha-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lma15q0ha-go-gitops
